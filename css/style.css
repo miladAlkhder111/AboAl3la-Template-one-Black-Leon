@@ -573,7 +573,15 @@ color: var(--main-color);
     }
 
 /* end footer */
-
+@media (max-width:767px) {
+.landing
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+    
+    }
 
 
 
