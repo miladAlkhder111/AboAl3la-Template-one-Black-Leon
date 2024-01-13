@@ -206,7 +206,8 @@ padding-left: 30px;
     color: var(--main-color);
     font-weight: bold;
     font-size: 50px;
-    font-family: cursive;
+     font-family: 'Lemon', serif;
+    font-weight:100;
 }
 .landing .intro-text p
 {
@@ -367,6 +368,8 @@ z-index: -1;
 .portfolio .portfolio-content .card .info h3
 {
     margin: 0;
+     font-family: 'Lemon', serif;
+    font-weight:100;
 }
 .portfolio .portfolio-content .card .info p
 {
